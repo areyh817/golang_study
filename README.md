@@ -9,9 +9,9 @@ Tucker의 Go언어 프로그래밍 책의 기본단계를 읽으면서 실습해
 <br><br>
 
 
-- [ ] Hello Go World
-- [ ] 변수
-- [ ] fmt 패키지를 이용한 텍스트 입출력
+- [x] Hello Go World
+- [x] 변수
+- [x] fmt 패키지를 이용한 텍스트 입출력
 - [ ] 연산자, 함수, 상수
 - [ ] if문, switch문
 - [ ] for문, 배열
